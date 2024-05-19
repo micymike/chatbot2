@@ -1,0 +1,9 @@
+pip requirements
+tkinter- for graphical user interface
+
+
+pytest
+pyttsx3- for sound effect
+pyaudio
+duckduckGo - this is where some answers comes from
+
